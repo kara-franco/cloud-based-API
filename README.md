@@ -15,4 +15,4 @@ Run the program by opening another window and starting the server: type npm star
 if the database exists by opening a new window and typing mongo (this will give you all the mongo information and command explanations) 
 then type show dbs to see the database. 
 
-You can test the project with httpie. Simply follow the instructions in my testing file, URL-test.pdf. 
+You can test the project with httpie. Simply follow the instructions in my testing file, URL-tests.pdf. 
